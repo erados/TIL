@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Hello World!](README.md)
+
 ## Python
 
-* [모두를 위한 파이썬 : 필수 문법 배우기](README.md)
+* [모두를 위한 파이썬 : 필수 문법 배우기](<README (1).md>)
 
 ## Group 1
 
