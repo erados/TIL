@@ -2,7 +2,7 @@
 
 ## Python
 
-* [Page 2](README.md)
+* [모두를 위한 파이썬 : 필수 문법 배우기](README.md)
 
 ## Group 1
 
